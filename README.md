@@ -5,4 +5,3 @@ Connect to the Jenkins server and build a manual job.  Your manual job must pull
 
 Please name your job SWDV 660 Manual - YOUR NAME .  Next, when you configure the job, enter a description of the job and your name.
 
-change.
